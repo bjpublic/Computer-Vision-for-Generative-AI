@@ -1,9 +1,0 @@
-ipykernel
-numpy==1.21.6
-Pillow==9.5.0
-requests==2.31.0
-torch==1.13.1
-torchvision==0.14.1
-urllib3==2.0.7
-wincertstore==0.2
-torchsummary==1.5.1
