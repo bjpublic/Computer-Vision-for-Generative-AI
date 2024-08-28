@@ -1,8 +1,0 @@
-ipykernel
-numpy
-scipy
-argparse
-matplotlib
-pro-gan-pth
-pillow
-tqdm
