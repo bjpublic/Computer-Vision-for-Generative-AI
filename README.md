@@ -3,4 +3,4 @@
 **부제 : 파이토치를 활용한 딥러닝과 비전 생성 모델**
 
 * 출간 : 2024년 8월 30일
-* 저자 : 최재웅 [Git](https://github.com/jaewoong1) [Scholar](https://scholar.google.com/citations?user=cLyUoKYAAAAJ&hl=ko)
+* 저자 : 최재웅 [[Git]](https://github.com/jaewoong1) [[Scholar]](https://scholar.google.com/citations?user=cLyUoKYAAAAJ&hl=ko)
